@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Playing with digits/Playing with digits.iml" filepath="$PROJECT_DIR$/Playing with digits/Playing with digits.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rotate Array/Rotate Array.iml" filepath="$PROJECT_DIR$/Rotate Array/Rotate Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Round to two decimal/Round to two decimal.iml" filepath="$PROJECT_DIR$/Round to two decimal/Round to two decimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/YearLeap.iml" filepath="$PROJECT_DIR$/YearLeap.iml" />
     </modules>
   </component>
