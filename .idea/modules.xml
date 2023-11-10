@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Playing with digits/Playing with digits.iml" filepath="$PROJECT_DIR$/Playing with digits/Playing with digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rotate Array/Rotate Array.iml" filepath="$PROJECT_DIR$/Rotate Array/Rotate Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/YearLeap.iml" filepath="$PROJECT_DIR$/YearLeap.iml" />
     </modules>
   </component>
