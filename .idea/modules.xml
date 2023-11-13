@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Is a number prime/Is a number prime.iml" filepath="$PROJECT_DIR$/Is a number prime/Is a number prime.iml" />
       <module fileurl="file://$PROJECT_DIR$/Playing with digits/Playing with digits.iml" filepath="$PROJECT_DIR$/Playing with digits/Playing with digits.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rotate Array/Rotate Array.iml" filepath="$PROJECT_DIR$/Rotate Array/Rotate Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Round to two decimal/Round to two decimal.iml" filepath="$PROJECT_DIR$/Round to two decimal/Round to two decimal.iml" />
