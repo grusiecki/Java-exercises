@@ -7,7 +7,7 @@ public class Rotator {
         LinkedList<Object> list2 = new LinkedList<>();
         Collections.addAll(list, data);
         Collections.addAll(list, data);
-        //dodac przypadek minusowy i zerowy
+
         if (n < 0) {
             n *= -1;
             for (int i = 0; i < data.length; i++) {
